@@ -1,2 +1,2 @@
-# PlotSRK
+# Plot JAC
 Plot app
