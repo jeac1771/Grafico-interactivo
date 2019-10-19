@@ -13,5 +13,6 @@ dependencies:
   - ipywidgets=7
   - plotly
   - pip
+  - appmode
   - pip:
     - plotly==4.1.0
