@@ -1,4 +1,4 @@
-.container { width:100% !important; }
-div.output_scroll {
-    resize: vertical !important;
-}
+'.container { width:100% !important; }
+'div.output_scroll {
+'    resize: vertical !important;
+'}
