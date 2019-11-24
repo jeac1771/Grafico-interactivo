@@ -5,7 +5,6 @@ channels:
   - r
   - conda-forge
 dependencies:
-  - python>3.6
   - numpy
   - pandas
   - notebook>5.2
