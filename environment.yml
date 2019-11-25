@@ -15,3 +15,4 @@ dependencies:
   - appmode
   - pip:
     - plotly==4.1.0
+    - plyfile
