@@ -1,5 +1,7 @@
 # Plot JAC
-Plot app
+Plot app:
+
+Grafico interactivo mediante el uso de plotly, para visualizar ajuste de H-B y la topografía en donde se encuentran ubicados los ensayos.
 
 
 Run on binder:
